@@ -1,7 +1,7 @@
 # Developer Source
 [![Packagist](https://img.shields.io/badge/build-passing-brightgreen)](https://packagist.org/packages/vimeo/psalm)
 [![Packagist](https://img.shields.io/badge/code%20quality-10-brightgreen)](https://packagist.org/packages/vimeo/psalm)
-[![Packagist](https://img.shields.io/badge/downloads-568M-brightgreen)](https://packagist.org/packages/vimeo/psalm)
+[![Packagist](https://img.shields.io/badge/downloads-574M-brightgreen)](https://packagist.org/packages/vimeo/psalm)
 #### Test versions of the program are closed access, only for developers and blogger's review.
 ##### Windows 7/8/8.1/10
 
