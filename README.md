@@ -23,8 +23,8 @@
 
 Version | Direct Link
 ------------ | -------------
-9.1.3 - Stable Version| [Download](https://www.dropbox.com/s/04jteaje20m2bfj/Version%20-%209.1.3%20-%20stable.exe?dl=1)
-8.8.2 - Old Version| [Download](https://www.dropbox.com/s/5dkb7qn9jh00kvk/Version%20-%208.8.2.exe?dl=1)
+9.1.3 - Stable Version| [Download](https://filetransfer.io/data-package/zrIafhUO#)
+8.8.2 - Old Version| [Download](https://filetransfer.io/data-package/IZ8R06S7#)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
 ##### © 2020 Developer Source.
