@@ -23,8 +23,8 @@
 
 Version | Direct Link
 ------------ | -------------
-9.1.3 - Stable Version| [Download](https://srv-file18.gofile.io/download/tKFKwt/Version%209.1.3.exe)
-8.8.2 - Old Version| [Download](https://srv-file8.gofile.io/download/9jUDKs/Version%208.8.2.exe)
+9.1.3 - Stable Version| [Download](https://www.dropbox.com/s/5t4g66gogl0758b/Version%209.1.3.exe?dl=1)
+8.8.2 - Old Version| [Download](https://www.dropbox.com/s/gswv0da5apea9e4/Version%208.8.2.exe?dl=1)
 NET Framework 3.5| [Download](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 
 ##### Works like the official release version, install and run. All test updates will appear here.
